@@ -1,0 +1,2 @@
+ydata-profiling[notebook,unicode]
+pandas==1.5.3
